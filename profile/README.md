@@ -1,1 +1,1 @@
-![CodeTest Banner](./CodeTest%20Banner.png)
+![CodeTestBanner](./CodeTestBanner.png)
